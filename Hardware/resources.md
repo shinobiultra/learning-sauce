@@ -1,6 +1,11 @@
 Online resources
 ================
 
+Random
+------
+
+- https://herbsutter.com/category/hardware/ : Cool articles + nice blog on it's own
+
 CPU internals
 -------------
 
