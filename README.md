@@ -9,6 +9,7 @@ My own personal stash of learning resources. If you stumble upon this, it's prob
 
 ### General
 - https://github.com/sindresorhus/awesome : Just everything you'd wanna possibly learn. Check out hardware heh
+- https://github.com/darshanime/notes/blob/master/operating_systems.org : Notes on pretty much EVERY CS topic ! OMG
 
 ### Random
 - http://www.devtopics.com/101-great-computer-programming-quotes/ : Best CS quotes :D
