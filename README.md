@@ -12,3 +12,4 @@ My own personal stash of learning resources. If you stumble upon this, it's prob
 ### Random
 - http://www.devtopics.com/101-great-computer-programming-quotes/ : Best CS quotes :D
 - https://qz.com/1570179/how-to-make-friends-build-a-community-and-create-the-life-you-want/ : Remember NEVER TO BE ALONE. Fuck everything if it's gonna cost you friends & family.
+- https://selfhacked.com/blog/how-to-increase-serotonin/ : Wanna be happy ? Increase your serotonin levels. Also, VERY good blog. Scientificaly accurate, helpful, nice

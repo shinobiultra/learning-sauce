@@ -4,6 +4,7 @@ Problem Solving
 - https://www.hackerrank.com/ : High lvl challenges + chance to get hired (apparently)
 - https://www.codewars.com/ : Solve some challenges 
 - https://codesignal.com/ : Similar, just smaller
+- https://leetcode.com/ : More premium
 
 General Programming
 ====================
