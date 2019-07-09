@@ -5,6 +5,7 @@ Random
 ------
 
 - https://herbsutter.com/category/hardware/ : Cool articles + nice blog on it's own
+- http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html : Nice writeups & projects
 
 CPU internals
 -------------
