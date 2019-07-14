@@ -12,3 +12,5 @@ Programming
 -----------
 
 - https://github.com/rasbt/deeplearning-models : TensorFlow & Pytorch collection of various models w/ tips
+- https://github.com/ddbourgin/numpy-ml : ML Algorithms in numpy. Explained. Everything.
+- https://github.com/fastai/course-nlp : Top-down course on NLP (fast.ai!)

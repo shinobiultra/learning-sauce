@@ -6,6 +6,7 @@ Random
 
 - https://herbsutter.com/category/hardware/ : Cool articles + nice blog on it's own
 - http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html : Nice writeups & projects
+- https://en.wikichip.org/wiki/WikiChip : Awesome HW wiki. Even talks about newest stuff + news
 
 CPU internals
 -------------
