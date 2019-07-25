@@ -6,6 +6,7 @@ General
 
 - https://www.textbook.ds100.org/ : All the principles (w/ math) around ML
 - https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum : Complete NLP Curriculum
+- https://github.com/firmai/industry-machine-learning : List of applied ML articles, data science notebooks, and libraries across different industries
 
 
 Programming
