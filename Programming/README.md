@@ -20,6 +20,7 @@ Programming Languages
 - http://openbookproject.net/thinkcs/python/english3e/ : Pretty cool intro to Python
 - http://howto.py.cz/index.htm : Similar to the previous one. Beware it's in Czech tho 
 - http://diveintopython3.py.cz/index.html : And one last similar, again in Czech
+- https://vincent.bernat.ch/en/blog/2019-sustainable-python-script : Learn to write READABLE Python scripts (100s lines+)
 
 Games
 =====
