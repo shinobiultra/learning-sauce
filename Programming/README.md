@@ -10,6 +10,7 @@ General Programming
 ====================
 
 - https://github.com/Juanpe/About-SwiftUI : Everything to start with SwiftUI
+- https://github.com/MindorksOpenSource/android-developer-roadmap : Roadmap to become complete Android dev<3
 
 Programming Languages
 =====================
