@@ -12,6 +12,7 @@ CPU internals
 -------------
 
 - https://libre-riscv.org/3d_gpu/ : bottom of the page has some AWESOME resources
+- http://alasir.com/articles/cache_principles/index.html : Cool, short, on-point cache primer. Awesome read:)
 
 FPGA
 ----
