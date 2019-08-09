@@ -9,6 +9,8 @@ My own personal stash of learning resources. If you stumble upon this, it's prob
 ### General
 - https://github.com/sindresorhus/awesome : Just everything you'd wanna possibly learn. Check out hardware heh
 - https://github.com/darshanime/notes : Notes on pretty much EVERY CS topic ! OMG
+- https://www.freecodecamp.org/news/free-programming-courses-august-2019/ : Pretty much every CS course ever
+- https://www.classcentral.com/ : All the MOOCs and courses on CS topics in one place !
 
 ### Random
 - http://www.devtopics.com/101-great-computer-programming-quotes/ : Best CS quotes :D
