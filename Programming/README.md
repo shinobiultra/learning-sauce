@@ -23,6 +23,9 @@ Programming Languages
 - http://diveintopython3.py.cz/index.html : And one last similar, again in Czech
 - https://vincent.bernat.ch/en/blog/2019-sustainable-python-script : Learn to write READABLE Python scripts (100s lines+)
 
+### C++
+- https://www.learncpp.com/ : Just learn it all. Structured. Awesome.
+
 Games
 =====
 
