@@ -18,3 +18,8 @@ FPGA
 ----
 
 - https://www.fpga4student.com/2017/09/vhdl-code-for-mips-processor.html : MIPS CPU on FPGA in VHDL + tons of resources on that page
+
+Electronics
+-----------
+
+- https://knihy.nic.cz/files/edice/hradla_volty_jednocipy.pdf : Best electronics book in the world. In Czech only tho.
