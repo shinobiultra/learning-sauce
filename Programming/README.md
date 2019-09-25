@@ -28,6 +28,9 @@ Programming Languages
 ### C++
 - https://www.learncpp.com/ : Just learn it all. Structured. Awesome.
 
+### Bash
+- https://github.com/dylanaraps/pure-bash-bible : A collection of pure bash alternatives to external processes. 
+
 Games
 =====
 
