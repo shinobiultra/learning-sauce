@@ -7,3 +7,4 @@ Unrelated
 
 ## Tools
 - https://gifrun.com/ : Create GIFs from anything. Simple. Local. Sleek.
+- https://github.com/denisidoro/navi : Use bash ? Best cheat sheet browser, simply execute what you need
