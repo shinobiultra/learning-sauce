@@ -28,6 +28,9 @@ Programming Languages
 ### C++
 - https://www.learncpp.com/ : Just learn it all. Structured. Awesome.
 
+### Low-Level
+- https://www.tech.io/playgrounds/283/sse-avx-vectorization/what-is-sse-and-avx : Insanely good intro to AVX/SSE. 
+
 Games
 =====
 
@@ -44,5 +47,8 @@ Assembly / Reverse Engineering
 - https://gamedev.stackexchange.com/questions/27196/which-opcodes-are-faster-at-the-cpu-level : Just interesting, CPUs under microscope
 - https://www.agner.org/optimize/ : From above, how CPUs work, optimize and everything you wanna know
 
+Miscellaneous
+=============
 
+- https://lord.io/blog/2019/text-editing-hates-you-too/ : Text handling in computer is hard. Insanely hard. See for yourself
 
