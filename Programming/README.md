@@ -5,6 +5,7 @@ Problem Solving
 - https://www.codewars.com/ : Solve some challenges 
 - https://codesignal.com/ : Similar, just smaller
 - https://leetcode.com/ : More premium
+- https://real.dev/ : Real-world projects (HTTP server, scripts, front-ends etc.). Ft. leaderboard :3
 
 General Programming
 ====================
@@ -30,6 +31,7 @@ Programming Languages
 
 ### Bash
 - https://github.com/dylanaraps/pure-bash-bible : A collection of pure bash alternatives to external processes. 
+
 ### Low-Level
 - https://www.tech.io/playgrounds/283/sse-avx-vectorization/what-is-sse-and-avx : Insanely good intro to AVX/SSE. 
 
