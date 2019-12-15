@@ -26,14 +26,17 @@ Programming Languages
 - http://diveintopython3.py.cz/index.html : And one last similar, again in Czech
 - https://vincent.bernat.ch/en/blog/2019-sustainable-python-script : Learn to write READABLE Python scripts (100s lines+)
 
-### C++
+### C(++)
 - https://www.learncpp.com/ : Just learn it all. Structured. Awesome.
+- https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/ : Learn C by writing a rootkit!!!
 
 ### Bash
 - https://github.com/dylanaraps/pure-bash-bible : A collection of pure bash alternatives to external processes. 
 
 ### Low-Level
 - https://www.tech.io/playgrounds/283/sse-avx-vectorization/what-is-sse-and-avx : Insanely good intro to AVX/SSE. 
+- https://erthalion.info/2019/12/06/postgresql-stay-curious/ : PostgreSQL at low level.
+- https://yorickpeterse.com/articles/deciding-when-to-collect-garbage/ : When to collect garbage?
 
 Games
 =====
@@ -41,6 +44,11 @@ Games
 - http://www.zachtronics.com/tis-100/ : Cool, kind of low level, but fun
 - http://www.zachtronics.com/shenzhen-io/ : Same dev as above, looks awesome
 - https://store.steampowered.com/app/684270/Silicon_Zeroes/ : Design your own computer from scratch !! FUN AF
+
+Projects
+========
+
+- https://0x65.dev/blog/2019-12-06/building-a-search-engine-from-scratch.html : Build search engine from scratch.
 
 Assembly / Reverse Engineering
 ==============================
@@ -50,9 +58,16 @@ Assembly / Reverse Engineering
 - https://godbolt.org/ : See live output of pretty much every compiler / prog. language **ever** 
 - https://gamedev.stackexchange.com/questions/27196/which-opcodes-are-faster-at-the-cpu-level : Just interesting, CPUs under microscope
 - https://www.agner.org/optimize/ : From above, how CPUs work, optimize and everything you wanna know
+- https://github.com/alphaSeclab/awesome-reverse-engineering : Reverse engineering repo
+
+Web Development
+===============
+
+- https://github.com/andrews1022/web-development-2020-course-list : Web dev 2020 guided course list
 
 Miscellaneous
 =============
 
 - https://lord.io/blog/2019/text-editing-hates-you-too/ : Text handling in computer is hard. Insanely hard. See for yourself
+- https://eng.getwisdom.io/awesome-unicode/ : All about Unicode and UTF
 
