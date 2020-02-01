@@ -19,6 +19,9 @@ General Programming
 Programming Languages
 =====================
 
+### Rust
+- http://bfnightly.bracketproductions.com/rustbook/chapter_0.html : Learn Rust by creating simple rogue-like game. Wholesome tutorial
+
 ### Python
 
 - https://github.com/jackfrued/Python-100-Days : Literal 0 to hero in Python. Beware it's in Chinese tho.
