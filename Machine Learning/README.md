@@ -11,6 +11,12 @@ General
 - https://mml-book.github.io/ : Maths for ML
 - http://www.deeplearningbook.org/ : ML w/ focus on Deep Learning
 - https://d2l.ai/ : THIS! Interactive book, Really thorough, NumPy. This is the way to start
+- http://neuralnetworksanddeeplearning.com/ : Awesome and SIMPLE(!) intro to ML!
+- https://news.ycombinator.com/item?id=21924298 : Start with ML in 2020. TL;DR : Fuck theory. Start doing. Top-down.
+- https://github.com/lettergram/sentence-classification : Sentence classification from scratch (Even from bag-of-words)
+- https://mlcourse.ai/ : ML Course similar to fast.ai 
+- https://www.coursera.org/specializations/deep-learning : Deep learning intro by deeplearning.ai
+- https://www.coursera.org/specializations/tensorflow-in-practice : TensorFlow in practice Specialization
 
 
 Programming
