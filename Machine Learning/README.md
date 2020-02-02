@@ -10,6 +10,7 @@ General
 - https://news.ycombinator.com/item?id=20674745 : Books on ML ? Cool thread
 - https://mml-book.github.io/ : Maths for ML
 - http://www.deeplearningbook.org/ : ML w/ focus on Deep Learning
+- https://d2l.ai/ : THIS! Interactive book, Really thorough, NumPy. This is the way to start
 
 
 Programming
