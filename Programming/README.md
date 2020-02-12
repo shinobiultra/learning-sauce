@@ -69,6 +69,10 @@ Web Development
 
 - https://github.com/andrews1022/web-development-2020-course-list : Web dev 2020 guided course list
 
+Project management
+==================
+- https://github.com/k88hudson/git-flight-rules : How to fix everything with Git.
+
 Miscellaneous
 =============
 
