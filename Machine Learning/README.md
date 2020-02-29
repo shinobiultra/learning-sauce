@@ -17,6 +17,7 @@ General
 - https://mlcourse.ai/ : ML Course similar to fast.ai 
 - https://www.coursera.org/specializations/deep-learning : Deep learning intro by deeplearning.ai
 - https://www.coursera.org/specializations/tensorflow-in-practice : TensorFlow in practice Specialization
+- https://www.youtube.com/watch?v=nddSJP2Q-gQ : Deep Learning intro by MIT.
 
 
 Programming
